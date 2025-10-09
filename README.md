@@ -32,14 +32,16 @@ Camada Analítica: Uma nova camada é criada no Snowflake (analise), contendo vi
 Visualização: Os dados da camada analítica são conectados ao Google Looker Studio para a criação de um dashboard interativo.
 ```
 #### Estrutura do dbt
-![alt text](estrutura.png)
+
+<img width="1624" height="785" alt="estrutura" src="https://github.com/user-attachments/assets/6fea5d95-22b3-461a-9ef6-7a9501755a6e" />
 
 ### 📊 Dashboard
 O dashboard criado no Looker Studio permite uma análise aprofundada dos dados de vendas, oferecendo insights sobre desempenho de vendedores, produtos e concessionárias.
 
 [Dashboard de Vendas](https://lookerstudio.google.com/s/mVHVeh2Q_JQ)
 
-![alt text](Dashaborad.jpg)
+![Dashaborad](https://github.com/user-attachments/assets/c6521c6e-4223-4d91-9a1c-981e4b1a50e0)
+
 
 
 #### 📋 Requisitos para Execução
